@@ -1,0 +1,7 @@
+---
+name: PMCMDUnregisterer
+author: XenialDan
+version: 0.0.1
+main: xenialdan\PMCMDUnregisterer\Loader
+api: 4.0.0+dev
+...
